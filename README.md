@@ -1,4 +1,4 @@
-<h1 align="center">Alexander — Full Stack Web Developer</h1>
+<h1 align="center">Alexandr — Full Stack Web Developer</h1>
 
 <p align="center">
   Founder of <strong>KINETIC Studio</strong><br />
