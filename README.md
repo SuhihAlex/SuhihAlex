@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://proposalflow-six.vercel.app">
-    View Live Project
+  <a href="https://lead-desk-ai.vercel.app">
+    LeadDesk AI
   </a>
   ·
-  <a href="https://github.com/SuhihAlex/ProposalFlow">
-    ProposalFlow Repository
+  <a href="https://proposalflow-six.vercel.app">
+    ProposalFlow
   </a>
 </p>
 
@@ -34,7 +34,47 @@ I develop projects through clear stages: product scope, interface, data model, b
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### LeadDesk AI
+
+An AI-powered multi-tenant CRM for web studios that captures project inquiries, qualifies leads with structured AI analysis, prepares reply drafts, manages a fixed sales pipeline, tracks tasks, and includes Stripe test billing.
+
+<p align="center">
+  <a href="https://lead-desk-ai.vercel.app">
+    <img
+      src="https://raw.githubusercontent.com/SuhihAlex/LeadDesk-AI/main/public/screenshots/dashboard.png"
+      alt="LeadDesk AI dashboard"
+      width="900"
+    />
+  </a>
+</p>
+
+LeadDesk AI includes:
+
+- secure public lead capture;
+- AI qualification with structured output;
+- transparent lead scoring;
+- searchable lead inbox;
+- fixed six-stage sales pipeline;
+- notes, tasks, assignees, and activity history;
+- editable AI reply drafts;
+- email delivery workflow;
+- Supabase Auth and Row Level Security;
+- workspace and team management;
+- Stripe Checkout, Customer Portal, and webhook synchronization;
+- Free-plan usage limits;
+- production deployment on Vercel.
+
+<p>
+  <a href="https://lead-desk-ai.vercel.app"><strong>Live application</strong></a>
+  ·
+  <a href="https://github.com/SuhihAlex/LeadDesk-AI"><strong>Source code</strong></a>
+  ·
+  <a href="https://github.com/SuhihAlex/LeadDesk-AI/blob/main/docs/product-contract.md"><strong>Product contract</strong></a>
+</p>
+
+---
 
 ### ProposalFlow
 
@@ -111,10 +151,11 @@ ProposalFlow includes:
 
 ## Current Focus
 
-Building a portfolio of production-ready software products under KINETIC Studio.
+Building production-ready SaaS products under KINETIC Studio.
 
-Current public product:
+Current public products:
 
+- **LeadDesk AI** — AI-powered CRM for web studios
 - **ProposalFlow** — SaaS proposal management platform
 
-More products will be added only after they are complete and ready for public demonstration.
+Each product is developed through a frozen scope, clear architecture, full business workflow, production deployment, and portfolio documentation.
