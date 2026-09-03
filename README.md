@@ -101,6 +101,26 @@ engineering foundation.
 
 ---
 
+### Rivo
+
+Large responsive multi-page frontend project.
+
+**HTML · CSS · JavaScript**
+
+Worked with:
+
+- multi-page responsive layouts
+- navigation and burger menu
+- case-study pages
+- client-side pagination
+- sliders and video interactions
+- forms and scroll-based UI behaviour
+
+[Live Website](https://suhihalex.github.io/RivoProject/) ·
+[Source Code](https://github.com/SuhihAlex/RivoProject)
+
+---
+
 ## Earlier Frontend Work
 
 Before moving into React and Next.js, I built multiple projects using
