@@ -1,76 +1,15 @@
-# Alexandr Suhih — Web Designer & Developer
+# Alexandr Suhih — Frontend Developer
 
-I design and build modern websites and digital products for businesses and startups.
+I build responsive web interfaces and modern web applications with
+**HTML, CSS, JavaScript, React, TypeScript and Next.js**.
 
-**Next.js · React · TypeScript · Supabase · Figma**
+Based in **Chișinău, Moldova**.
 
-Based in Chișinău, Moldova · Available for remote freelance projects and opportunities.
+Currently strengthening my frontend fundamentals while continuing to
+build and improve real projects.
 
----
-
-## What I Do
-
-I combine web design, frontend development and AI-assisted production to take digital products from idea to a working result.
-
-I can help with:
-
-* Landing page design & development
-* Figma to React / Next.js
-* Responsive website development
-* Frontend development and improvements
-* SaaS dashboards and client portals
-* Supabase authentication and database integration
-* UI implementation
-* Vercel deployment
-
-My focus is simple: **clean design, reliable implementation and a finished product that can actually be used.**
-
----
-
-## Featured Projects
-
-### LeadDesk AI
-
-AI-assisted CRM designed for web studios to capture, qualify and manage incoming leads.
-
-**Built with:** Next.js, React, TypeScript, Supabase, PostgreSQL, Stripe, AI integrations.
-
-Key functionality:
-
-* Lead capture and qualification
-* AI-assisted lead analysis
-* Sales pipeline
-* Tasks, notes and activity history
-* Team workspaces
-* Authentication and Row Level Security
-* Billing workflow
-* Responsive dashboard
-* Production deployment
-
-[Live Application](https://lead-desk-ai.vercel.app) · [Source Code](https://github.com/SuhihAlex/LeadDesk-AI)
-
----
-
-### ProposalFlow
-
-A SaaS application for creating, sending and tracking commercial proposals.
-
-**Built with:** Next.js, React, TypeScript, Supabase, PostgreSQL.
-
-Key functionality:
-
-* Authentication
-* Company workspaces
-* Client and service management
-* Proposal builder
-* Pricing and discounts
-* Public proposal links
-* Proposal tracking
-* Dashboard analytics
-* Supabase Row Level Security
-* Responsive interface
-
-[Live Application](https://proposalflow-six.vercel.app) · [Source Code](https://github.com/SuhihAlex/ProposalFlow)
+**Open to Junior Frontend roles, internships, freelance frontend work
+and remote opportunities.**
 
 ---
 
@@ -78,54 +17,119 @@ Key functionality:
 
 ### Frontend
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
-
-### Backend & Data
-
-`Supabase` · `PostgreSQL` · `Node.js`
-
-### Design & Production
-
-`Figma` · `AI-assisted workflows`
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
 
 ### Tools
 
-`Git` · `GitHub` · `Vercel`
+`Git` · `GitHub` · `Figma` · `Vercel`
+
+### Additional Project Experience
+
+`Supabase` · `PostgreSQL` · `Authentication` · `Row Level Security`
+· `Stripe` · `Resend` · `OpenAI API`
+
+My main professional direction is **frontend development**.
 
 ---
 
-## Currently Building
+## Featured Projects
 
-### NOLYR — Independent Digital Studio
+### LeadDesk AI
 
-An independent digital studio focused on identities, websites and visual systems for modern brands.
+Responsive CRM application for web studios.
 
-**AI-assisted, human-directed.**
+**Next.js · React · TypeScript · Tailwind CSS · Supabase**
 
-Current services:
+Worked with:
 
-* Landing Pages & Marketing Websites
-* Visual Production
-* Digital Campaign Systems
-* Digital Brand Systems
+- dashboard and reusable UI components
+- lead inbox, search and filters
+- drag-and-drop sales pipeline
+- forms and validation
+- application states
+- responsive layouts
+- authentication and protected application flows
+- external service integrations
+
+[Live App](https://lead-desk-ai.vercel.app) ·
+[Source Code](https://github.com/SuhihAlex/LeadDesk-AI)
 
 ---
 
-## Available For
+### ProposalFlow
 
-I'm currently available for:
+Web application for creating, sharing and tracking commercial proposals.
 
-* Freelance web projects
-* Landing page development
-* Figma-to-code projects
-* Frontend development
-* Website improvements and responsive fixes
-* Remote web / frontend opportunities
+**Next.js · React · TypeScript · Tailwind CSS · Supabase**
+
+Worked with:
+
+- authenticated application interfaces
+- client and service management
+- proposal builder
+- pricing UI
+- public proposal pages
+- status and response flows
+- dashboard metrics
+- responsive layouts
+
+[Live App](https://proposalflow-six.vercel.app) ·
+[Source Code](https://github.com/SuhihAlex/ProposalFlow)
+
+---
+
+### MAD Barbershop
+
+Responsive multi-page website created for a real barbershop business.
+
+**HTML · CSS · JavaScript**
+
+[Source Code](https://github.com/SuhihAlex/MADBarbershop)
+
+---
+
+### CUMPAVIO — In Development
+
+Moldova-first shopping intelligence product.
+
+**Next.js · React · TypeScript · Tailwind CSS**
+
+Currently being developed stage by stage with a documented
+engineering foundation.
+
+[Source Code](https://github.com/SuhihAlex/cumpavio)
+
+---
+
+## Earlier Frontend Work
+
+Before moving into React and Next.js, I built multiple projects using
+HTML, CSS and JavaScript.
+
+These projects document my progression from responsive layout and
+browser fundamentals toward modern component-based frontend development.
+
+---
+
+## Currently Learning
+
+I'm systematically strengthening:
+
+- HTML semantics and accessibility
+- CSS and responsive layouts
+- JavaScript fundamentals
+- browser APIs
+- React fundamentals
+- TypeScript
+- testing and debugging
+
+My goal is not only to build working interfaces, but to understand
+**why the code works**.
 
 ---
 
 ## Contact
 
-**GitHub:** [SuhihAlex](https://github.com/SuhihAlex)
+**LinkedIn:** https://www.linkedin.com/in/alexandr-suhih-1a4821289/
 
 **Location:** Chișinău, Moldova
