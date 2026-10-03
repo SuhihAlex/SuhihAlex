@@ -1,55 +1,42 @@
-# Alexandr Suhih — Frontend Developer
+# Alexandr Suhih
 
-I build responsive web interfaces and modern web applications with
-**HTML, CSS, JavaScript, React, TypeScript and Next.js**.
+### AI-Native Product Engineer · Full-Stack Developer
+
+I build **SaaS products, AI-powered workflows and internal business tools**.
+
+My work spans the product lifecycle — from understanding the problem and
+designing the workflow to architecture, frontend, backend, databases,
+AI integration, testing and deployment.
 
 Based in **Chișinău, Moldova**.
 
-Currently strengthening my frontend fundamentals while continuing to
-build and improve real projects.
-
-**Open to Junior Frontend roles, internships, freelance frontend work
-and remote opportunities.**
+**Open to freelance, contract and remote opportunities.**
 
 ---
 
-## Tech Stack
+## What I Build
 
-### Frontend
-
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
-
-### Tools
-
-`Git` · `GitHub` · `Figma` · `Vercel`
-
-### Additional Project Experience
-
-`Supabase` · `PostgreSQL` · `Authentication` · `Row Level Security`
-· `Stripe` · `Resend` · `OpenAI API`
-
-My main professional direction is **frontend development**.
+- SaaS & MVP products
+- AI integrations
+- Internal tools and dashboards
+- Business workflow applications
+- Evidence-grounded AI systems
+- Full-stack web applications
+- AI-assisted software development workflows
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### LeadDesk AI
 
-Responsive CRM application for web studios.
+AI-assisted CRM for web studios and service businesses.
 
-**Next.js · React · TypeScript · Tailwind CSS · Supabase**
+LeadDesk AI combines secure lead capture, structured AI qualification,
+transparent lead scoring, pipeline management, tasks, analytics,
+workspace roles and billing workflows.
 
-Worked with:
-
-- dashboard and reusable UI components
-- lead inbox, search and filters
-- drag-and-drop sales pipeline
-- forms and validation
-- application states
-- responsive layouts
-- authentication and protected application flows
-- external service integrations
+**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Stripe · AI APIs
 
 [Live App](https://lead-desk-ai.vercel.app) ·
 [Source Code](https://github.com/SuhihAlex/LeadDesk-AI)
@@ -58,98 +45,184 @@ Worked with:
 
 ### ProposalFlow
 
-Web application for creating, sharing and tracking commercial proposals.
+SaaS application for creating, sharing and tracking commercial proposals.
 
-**Next.js · React · TypeScript · Tailwind CSS · Supabase**
+The product includes authentication, client and service management,
+proposal creation, dynamic pricing, public proposal pages,
+response workflows and dashboard metrics.
 
-Worked with:
-
-- authenticated application interfaces
-- client and service management
-- proposal builder
-- pricing UI
-- public proposal pages
-- status and response flows
-- dashboard metrics
-- responsive layouts
+**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL
 
 [Live App](https://proposalflow-six.vercel.app) ·
 [Source Code](https://github.com/SuhihAlex/ProposalFlow)
 
 ---
 
-### MAD Barbershop
+### NELYR Create
 
-Responsive multi-page website created for a real barbershop business.
+**Current flagship R&D project.**
 
-**HTML · CSS · JavaScript**
+NELYR Create is an AI-native software creation workspace built around
+persistent project context and controlled, verifiable software change workflows.
 
-[Source Code](https://github.com/SuhihAlex/MADBarbershop)
+The current lifecycle includes:
 
----
+`Project → Repository → Context → Change → Execution → Validation → Review → Acceptance → Git Writeback`
 
-### CUMPAVIO — In Development
+The system is designed around explicit trust boundaries:
 
-Moldova-first shopping intelligence product.
+- generated output is never automatically trusted
+- repository state is verified before critical operations
+- execution, validation, review and acceptance remain separate
+- important decisions require explicit human control
+- project context retains provenance and explicit unknowns
 
-**Next.js · React · TypeScript · Tailwind CSS**
+**Stack:** Next.js · React · TypeScript · Vitest · Playwright · GitHub Actions · Turborepo
 
-Currently being developed stage by stage with a documented
-engineering foundation.
-
-[Source Code](https://github.com/SuhihAlex/cumpavio)
-
----
-
-### Rivo
-
-Large responsive multi-page frontend project.
-
-**HTML · CSS · JavaScript**
-
-Worked with:
-
-- multi-page responsive layouts
-- navigation and burger menu
-- case-study pages
-- client-side pagination
-- sliders and video interactions
-- forms and scroll-based UI behaviour
-
-[Live Website](https://suhihalex.github.io/RivoProject/) ·
-[Source Code](https://github.com/SuhihAlex/RivoProject)
+**Status:** Private R&D project under active development.
 
 ---
 
-## Earlier Frontend Work
+### LabelDesk AI
 
-Before moving into React and Next.js, I built multiple projects using
-HTML, CSS and JavaScript.
+Evidence-grounded AI help desk designed for organizations that need AI
+answers to remain tied to trusted internal knowledge.
 
-These projects document my progression from responsive layout and
-browser fundamentals toward modern component-based frontend development.
+Core rule:
+
+`ENOUGH EVIDENCE → ANSWER`
+
+`NOT ENOUGH EVIDENCE → HUMAN HANDOFF`
+
+The system is being designed to preserve source evidence, distinguish known
+facts from unknowns and prevent unsupported AI answers.
+
+**Stack:** TypeScript · Node.js · Vitest · GitHub Actions · AI/LLM integration
+
+**Status:** Private project under active development.
 
 ---
 
-## Currently Learning
+### Carrier Finder
 
-I'm systematically strengthening:
+Evidence-first system for discovering, extracting, verifying and ranking
+real transport carrier contacts for specific routes and cargo requests.
 
-- HTML semantics and accessibility
-- CSS and responsive layouts
-- JavaScript fundamentals
-- browser APIs
-- React fundamentals
-- TypeScript
-- testing and debugging
+The system follows one strict principle:
 
-My goal is not only to build working interfaces, but to understand
-**why the code works**.
+> Missing information remains missing.
+
+AI may interpret retrieved evidence, but it must never fabricate company
+details, phone numbers, emails, routes or vehicle information.
+
+Pipeline:
+
+`Web Sources → Extraction → Structured Candidates → Verification → Ranking → Export`
+
+**Stack:** Python 3.13 · pytest · Ruff · Git
+
+**Status:** Private project under active development.
+
+---
+
+## Engineering Approach
+
+I use AI extensively in my development workflow, but I do not treat generated
+output as automatically correct.
+
+My current engineering principles include:
+
+- context before generation
+- evidence before assumptions
+- explicit unknowns instead of fabricated certainty
+- runtime validation at trust boundaries
+- human control over critical decisions
+- deterministic behavior where reliability matters
+- tests focused on meaningful behavior and risk
+- architecture driven by real product requirements
+- avoid speculative abstractions and infrastructure
+
+> **AI is a tool, not an authority.**
+
+---
+
+## Tech Stack
+
+### Languages
+
+`TypeScript` · `JavaScript` · `Python` · `HTML` · `CSS`
+
+### Frontend
+
+`Next.js` · `React` · `Tailwind CSS`
+
+### Backend & Data
+
+`Node.js` · `Supabase` · `PostgreSQL` · `Authentication` · `Row Level Security`
+
+### AI & Integrations
+
+`AI/LLM APIs` · `Structured AI Outputs` · `Evidence-Grounded Workflows` · `API Integration`
+
+### Testing
+
+`Vitest` · `Testing Library` · `Playwright` · `pytest`
+
+### Engineering
+
+`Git` · `GitHub` · `GitHub Actions` · `Turborepo` · `CI/CD`
+
+### Product
+
+`Product Development` · `SaaS` · `MVP Development` · `Internal Tools` · `Figma`
+
+---
+
+## Earlier Work
+
+My earlier repositories document my progression from responsive frontend
+development with HTML, CSS and JavaScript toward full-stack product development,
+SaaS systems and applied AI engineering.
+
+I keep them public because they show the evolution of my engineering work over time.
+
+---
+
+## Current Focus
+
+I'm currently focused on:
+
+- building NELYR Create
+- reliable AI integration
+- evidence-grounded AI systems
+- SaaS and internal business tools
+- improving software architecture and testing depth
+- turning product engineering skills into real commercial work
+
+---
+
+## Work With Me
+
+I can help with:
+
+- SaaS and MVP development
+- AI integration into existing products
+- internal tools and dashboards
+- Next.js / TypeScript applications
+- Supabase, authentication and database workflows
+- fixing and completing AI-generated web applications
+
+Available for **freelance, contract and remote work**.
 
 ---
 
 ## Contact
 
-**LinkedIn:** https://www.linkedin.com/in/alexandr-suhih-1a4821289/
+**LinkedIn:**  
+https://www.linkedin.com/in/alexandr-suhih-1a4821289/
 
-**Location:** Chișinău, Moldova
+**GitHub:**  
+https://github.com/SuhihAlex
+
+**Location:**  
+Chișinău, Moldova
