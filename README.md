@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/github-profile-banner.png" alt="Alexandr Suhih — AI-Native Product Engineer" width="100%" />
+</p>
+
+
 # Alexandr Suhih
 
 ### AI-Native Product Engineer · Full-Stack Developer
