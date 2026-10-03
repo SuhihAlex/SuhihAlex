@@ -65,16 +65,22 @@ response workflows and dashboard metrics.
 NELYR Create is an AI-native software creation workspace built around
 persistent project context and controlled, verifiable software change workflows.
 
-The current lifecycle includes:
+The implemented lifecycle includes:
 
-`Project → Repository → Context → Change → Execution → Validation → Review → Acceptance → Git Writeback`
+`Project → Repository → Context → Change → Execution → Validation → Review → Acceptance → Git Writeback → Context Update`
+
+NELYR also provides a read-only Project History surface derived from persisted
+lifecycle evidence, preserving what happened without treating historical records
+as current authority.
 
 The system is designed around explicit trust boundaries:
 
 - generated output is never automatically trusted
-- repository state is verified before critical operations
+- repository state is independently verified before critical operations
 - execution, validation, review and acceptance remain separate
-- important decisions require explicit human control
+- successful Git writeback does not automatically update Project Context
+- historical evidence is preserved while current applicability is derived separately
+- important decisions remain under explicit human control
 - project context retains provenance and explicit unknowns
 
 **Stack:** Next.js · React · TypeScript · Vitest · Playwright · GitHub Actions · Turborepo
