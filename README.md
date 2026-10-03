@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Alexandr Suhih — AI-Native Product Engineer" width="100%" />
+  <img src="./assets/github-profile-banne.png" alt="Alexandr Suhih — AI-Native Product Engineer" width="100%" />
 </p>
 
 
